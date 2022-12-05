@@ -14,8 +14,6 @@ $("#save").on('click',function(){
 
 });
 
-
-
     
     const html = `
         <tr>
